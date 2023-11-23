@@ -56,7 +56,9 @@ https://www.youtube.com/watch?v=EmBVBUczytA&ab_channel=ANDRESMEJIA
 ## Testing
 Testing of the code was completed in Insomnia
 
+![Video](./Assets/Insomnia.gif)
 
+https://www.youtube.com/watch?v=i7SiLVcrZxc&ab_channel=ANDRESMEJIA
 
 ## Licence
 
