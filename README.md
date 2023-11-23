@@ -49,6 +49,10 @@ npm run seed
 node server.js
 ```
 
+![Video](./Assets/Install.gif)
+
+https://www.youtube.com/watch?v=EmBVBUczytA&ab_channel=ANDRESMEJIA
+
 ## Testing
 Testing of the code was completed in Insomnia
 
